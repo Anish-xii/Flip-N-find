@@ -9,9 +9,10 @@ Flip and Find is a memory card game built with HTML, CSS, and JavaScript. The ob
 - **Smooth Animations**: Engaging user experience.
 
 <p align="center">
+<img width="631" alt="Screenshot 2024-05-20 at 21 33 16" src="https://github.com/Anish-xii/Flip---find/assets/164672680/c9aeed78-4ae0-4a95-aa50-9b598762cd81">
 
 
-https://github.com/Anish-xii/Flip---find/assets/164672680/d10b2b03-f266-422a-8071-0661f001254e
+
 
 
 </p>
